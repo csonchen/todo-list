@@ -4,3 +4,4 @@ dist/
 .env
 *.log
 todos.db
+package-lock.json
