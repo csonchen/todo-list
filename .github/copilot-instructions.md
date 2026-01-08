@@ -44,7 +44,7 @@ The application allows users to manage their daily tasks with create, read, upda
 │   └── eslint.config.js
 └── server/           # Express backend application
     ├── server.js     # Main server file with API routes
-    ├── todos.db      # SQLite database (auto-generated)
+    ├── todos.db      # SQLite database (created at runtime)
     └── package.json
 ```
 
